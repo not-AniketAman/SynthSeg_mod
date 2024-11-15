@@ -259,26 +259,7 @@ detailed information is provided in the docstrings of all functions, so don't he
 - [ext](ext): includes external packages, especially the *lab2im* package, and a modified version of *neuron*.
 
 
-----------------
-
-### Citation/Contact
-
-This code is under [Apache 2.0](LICENSE.txt) licensing. 
-
-- If you use the **cortical parcellation**, **automated QC**, or **robust version**, please cite the following paper:
-
-**Robust machine learning segmentation for large-scale analysisof heterogeneous clinical brain MRI datasets** \
-B. Billot, M. Colin, Y. Cheng, S.E. Arnold, S. Das, J.E. Iglesias \
-PNAS (2023) \
-[ [article](https://www.pnas.org/doi/full/10.1073/pnas.2216399120#bibliography) | [arxiv](https://arxiv.org/abs/2203.01969) | [bibtex](bibtex.bib) ]
-
-
-- Otherwise, please cite:
-
-**SynthSeg: Segmentation of brain MRI scans of any contrast and resolution without retraining** \
 B. Billot, D.N. Greve, O. Puonti, A. Thielscher, K. Van Leemput, B. Fischl, A.V. Dalca, J.E. Iglesias \
 Medical Image Analysis (2023) \
 [ [article](https://www.sciencedirect.com/science/article/pii/S1361841523000506) | [arxiv](https://arxiv.org/abs/2107.09559) | [bibtex](bibtex.bib) ]
 
-If you have any question regarding the usage of this code, or any suggestions to improve it, please raise an issue or 
-contact us at: bbillot@mit.edu
